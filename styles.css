@@ -541,7 +541,12 @@ font-size:13px;
 .Ocontainer {
         
        
-        height: calc(100vh * 2.3); 
+        display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
         background-color: white;
         
         padding: 20px;
@@ -586,7 +591,12 @@ font-size:16px;
 .About-container {
         
        
-        height: calc(100vh * 1); 
+        display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
         background-color: white;
         border-radius: 10px;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -610,7 +620,12 @@ font-size:16px;
 .privacy-container {
         
        
-        height: calc(100vh * 3.7); 
+        display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
         background-color: white;
         border-radius: 10px;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -637,7 +652,12 @@ font-size:16px;
 .disclaimer-container {
         
        
-        height: calc(100vh * 2.5); 
+        display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
         background-color: white;
         border-radius: 10px;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -664,7 +684,12 @@ font-size:16px;
 
         background-color: white;
 
-        height: calc(100vh * 2); 
+        display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
         
         
 
@@ -739,7 +764,7 @@ flex:1;
 
 hr {
       border: 0.5px solid #ccc; 
-
+      width:100%;
     }
 
 
