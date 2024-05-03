@@ -212,6 +212,49 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
+document.getElementById('newsletter-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
 
+    // Get the email input value
+    const emailInput = document.getElementById('email');
+    const email = emailInput.value.trim(); // Trim any leading/trailing spaces
+
+    // Validate the email format using a regular expression
+    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    if (!emailRegex.test(email)) {
+        // Email format is incorrect, show an error message to the user
+        emailInput.setCustomValidity('Please enter a valid email address.');
+        emailInput.reportValidity(); // Show the error message to the user
+        return; // Exit the function, don't submit the form
+    }
+
+    // Prepare the data to send to SheetDB
+    const dataToSend = {
+        email: email
+        // Add other fields if needed
+    };
+
+    const sheetdbApiUrl = 'https://sheetdb.io/api/v1/qhzpuahn1u9wa'; // Your actual SheetDB API endpoint
+
+    // Make POST request to SheetDB API
+    fetch(sheetdbApiUrl, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(dataToSend),
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('Data sent successfully:', data);
+        // Optionally, show a success message to the user
+        alert('Subscription successful!'); // Example of a success message
+    })
+    .catch(error => {
+        console.error('Error sending data:', error);
+        // Optionally, show an error message to the user
+        alert('Subscription failed. Please try again later.'); // Example of an error message
+    });
+});
  
     
