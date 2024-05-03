@@ -714,25 +714,27 @@ font-size:16px;
 
 .main-container {
 
-        background-color: white;
-
         display: flex;
     flex-direction: column; /* Stack items vertically */
     justify-content: flex-start; /* Align items to the top */
     align-items: stretch; /* Stretch items to fill the container's height */
     max-width: 100%; /* Optionally, set a maximum width */
         
+
+
+
+        background-color: white;
+
         
         
 
-        max-width: 1200px; 
-        border-radius: 15px;
+    border-radius: 15px;
     
-    padding: 20px;
-        margin-top: 15px;
+     margin-top: 15px;
         margin-bottom: 30px;
         margin-left: 15px;
         margin-right: 15px;
+        
          
 
 
@@ -796,73 +798,49 @@ flex:1;
 
 hr {
       border: 0.5px solid #ccc; 
-      width:100%;
+
     }
 
 
 
 
-
-
-
-
-    
-
-
-
-
-
-
-.custom-container {
-        
-        width: 300px;
-
-       
-        margin-top: 15px;
-        margin-bottom: 50px;
-        
-        margin-right: 10px;
+ .main-child-container {
         display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        margin: 20px;
+         
+    }
+
+    .step {
+        font-size: 24px;
+        font-weight: bold;
+        color: #36A84F;
+        margin-right: 20px;
+        flex-shrink: 0;
+        
+    }
+
+    .instructions {
+        flex-grow: 1;
+        
+        line-height: 1.5;
     }
 
 
 
-
-
-
-
-
-.inner-container-1 {
-    width: 50px;
-    height: 50px;
-   border-radius: 50%;
-
- 
     
-padding-top:30px;
 
 
 
-}
-
-.inner-container-2 {
-    
-    display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: flex-start; /* Align items to the top */
-    align-items: stretch; /* Stretch items to fill the container's height */
-    max-width: 100%; /* Optionally, set a maximum width */
-        
- 
- 
 
 
 
-padding-top:20px;
-padding-left:5px;
 
-
-}
 
 
 
@@ -879,7 +857,7 @@ justify-content:center;
 display:flex;
 flex-direction:row;
 justify-content:space-between;
-margin-bottom:10px;
+margin-bottom:20px;
 
 
 }
