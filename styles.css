@@ -846,7 +846,13 @@ padding-top:30px;
 }
 
 .inner-container-2 {
-    flex: 1; 
+    
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    justify-content: flex-start; /* Align items to the top */
+    align-items: stretch; /* Stretch items to fill the container's height */
+    max-width: 100%; /* Optionally, set a maximum width */
+        
  
  overflow: hidden; 
 
