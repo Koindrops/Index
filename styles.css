@@ -294,6 +294,21 @@ h1 {
 
 
 
+h3 {
+    color: #2D1D39; /* Color for the heading */
+    font-size: 18px; /* Font size for the heading */
+    /* Add more styles as needed */
+}
+
+
+
+
+
+
+
+
+
+
   .item3 {
     background-color: white;
     height: 240px;
