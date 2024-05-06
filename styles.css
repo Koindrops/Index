@@ -392,10 +392,7 @@ margin-bottom:10px;
 display:flex;
 flex-direction:row;
 justify-content:space-between;
-padding-top:10px;
-padding-bottom:10px;
-padding-left:10px;
-padding-right:10px;
+padding:10px;
 margin-left:15px;
 margin-right:15px;
 background-color:#e9e9e9;
@@ -484,8 +481,7 @@ justify-content:space-between;
 .itemchild3{
 
 height:50px;
- justify-content:center;
-  align-items: center;
+ font-size:25px;
  text-align: center;
 
   
@@ -494,9 +490,15 @@ display:flex;
 flex-direction:row;
 justify-content:space-between;
 
+}
 
+
+.itemchild3-text{
+
+margin: 0 auto;
 
 }
+
 
 
 
