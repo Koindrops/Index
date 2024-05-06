@@ -301,6 +301,19 @@ h2 {
 
 
 
+.heading-2{
+color:#36A84D;
+ margin-left:10px;
+ font-size:18px;
+ margin-top:-15px;
+}
+
+
+
+
+
+
+
 h3 {
     color: #2D1D39; /* Color for the heading */
     font-size: 18px; /* Font size for the heading */
