@@ -640,22 +640,7 @@ margin-right:15px;
 }
 
 
-.Ocontainer::-webkit-scrollbar {
-    width: 12px; 
-}
 
-
-
-.Ocontainer::-webkit-scrollbar-thumb {
-    background-color: rgba(0, 0, 0, 0.3); 
-    border-radius: 10px; 
-}
-
-
-
-.Ocontainer::-webkit-scrollbar-track {
-    background-color: transparent; 
-}
 
 
 
