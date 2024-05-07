@@ -694,7 +694,7 @@ font-size:13px;
 /* Media query for smaller screens targeting both .item3 and .item2 */
 @media screen and (max-width: 767px) {
     .item3, .item2 {
-        height: 200px; /* Adjust height for smaller screens */
+        height: 240px; /* Adjust height for smaller screens */
         margin-left: 10px; /* Adjust margins */
         margin-right: 10px;
     }
