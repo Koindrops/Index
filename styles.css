@@ -663,29 +663,34 @@ font-size:13px;
 
 
 
-.Ocontainer {
-        
-       
-        display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: flex-start; /* Align items to the top */
-    align-items: stretch; /* Stretch items to fill the container's height */
-    max-width: 100%; /* Optionally, set a maximum width */
-        
-        background-color: white;
-        
-        padding: 20px;
-        margin-top: 10px; 
-        margin-bottom: 30px;
-        border-radius:15px;
-        
-margin-left:15px;
-margin-right:15px;
- font-size:14px;
+/* Common styles for both containers */
+.Ocontainer, .main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    max-width: 100%;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 14px;
+    padding:20px;
+}
 
- 
- 
- 
+/* Styles for desktop screens */
+@media only screen and (min-width: 768px) {
+    .Ocontainer {
+        width: 50%;
+        margin-right: 10px; /* Adjust spacing between columns */
+    }
+
+    .main-container {
+        width: 50%;
+        margin-left: 10px; /* Adjust spacing between columns */
+    }
 }
 
 
@@ -843,33 +848,7 @@ font-size:16px;
 
 
 
-.main-container {
 
-        display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: flex-start; /* Align items to the top */
-    align-items: stretch; /* Stretch items to fill the container's height */
-    max-width: 100%; /* Optionally, set a maximum width */
-        
-
-
-
-        background-color: white;
-
-        
-        
-
-    border-radius: 15px;
-    
-     margin-top: 15px;
-        margin-bottom: 30px;
-        margin-left: 15px;
-        margin-right: 15px;
-        
-         font-size:14px;
-
-
-    }
 
 
 
