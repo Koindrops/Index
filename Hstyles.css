@@ -235,38 +235,37 @@ margin-left:25px;
 
 
 
-
-
-
-
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
 
 .item {
     background-color: white;
-    max-width:360px;
-    
+    max-width: 360px;
     border-radius: 15px;
-    border-color: grey;
+    border: 1px solid grey;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
     margin-bottom: 30px;
-    
-padding-top:15px;
-overflow: hidden;
-padding-bottom:15px;
+    padding: 15px;
+    box-sizing: border-box;
+}
 
+@media (min-width: 1024px) {
+    .container {
+        justify-content: flex-start;
+    }
 
- }
-    
-       
-
-       
-@media (min-width: 768px) {
     .item {
-        flex-basis: calc(50% - 30px); /* Adjust based on column count and gap */
+        width: calc(20% - 30px); /* 20% width for each item, considering 30px gap between items */
     }
 }
+
+
+
+
 
 
 
