@@ -359,7 +359,7 @@ margin-top:-10px;
 
 /* Media query for screen adjustment */
 @media only screen and (min-width: 768px) {
-    .Ocontainer, .item3 {
+    .Ocontainer {
         width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
     }
 
@@ -371,9 +371,7 @@ margin-top:-10px;
         margin-right: 10px; /* Adjust spacing between containers */
     }
 
-    .Ocontainer {
-        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
-    }
+    
 
     .item2 {
         width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
