@@ -357,32 +357,31 @@ margin-top:-10px;
 }
 
 
-
 /* Media query for screen adjustment */
 @media only screen and (min-width: 768px) {
-    .main-container {
-        width: 50%; /* Take half of the screen width */
-    }
-
-    .main-container {
-        margin: 0 auto; /* Center the main-container horizontally */
-    }
-
-    .item3, .item2 {
-        width:100%; 
-    }
-
-    .item2 {
-        margin-top: 10px; /* Adjust spacing between item3 and item2 */
+    .Ocontainer, .item3 {
+        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
     }
 
     .Ocontainer {
-        
-        width:100%;
-        
-        margin-left: 10px; /* Adjust spacing between Ocontainer and item2 */
+        margin-right: 10px; /* Adjust spacing between containers */
+    }
+
+    .item3 {
+        margin-right: 10px; /* Adjust spacing between containers */
+    }
+
+    .main-container {
+        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
+    }
+
+    .item2 {
+        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
+        margin-top: 10px; /* Adjust spacing between item3 and item2 */
+
     }
 }
+
 
   
 
