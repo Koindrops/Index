@@ -364,7 +364,7 @@ margin-top:-10px;
     }
 
     .Ocontainer {
-        margin-right: 10px; /* Adjust spacing between containers */
+        margin: 0 auto; /* Center the main-container horizontally */
     }
 
     .item3 {
