@@ -360,7 +360,7 @@ margin-top:-10px;
 
 /* Media query for screen adjustment */
 @media only screen and (min-width: 768px) {
-    .Ocontainer, .main-container {
+    .main-container {
         width: 50%; /* Take half of the screen width */
     }
 
@@ -377,6 +377,9 @@ margin-top:-10px;
     }
 
     .Ocontainer {
+        
+        width:100%;
+        
         margin-left: 10px; /* Adjust spacing between Ocontainer and item2 */
     }
 }
