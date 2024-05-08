@@ -358,26 +358,7 @@ margin-top:-10px;
 
 
 
-/* Media query for screen adjustment */
-@media only screen and (min-width: 768px) {
-    .Ocontainer, .main-container {
-        width: 50%; /* Take half of the screen width */
-    }
 
-    .Ocontainer {
-        margin: 0 auto; /* Center the main-container horizontally */
-    }
-
-    .item3, .item2 {
-        width: calc(70% - 10px); /* Take one-fourth of the screen width with margin adjustment */
-    }
-
-    .item2 {
-        margin-top: 10px; /* Adjust spacing between item3 and item2 */
-    }
-
-    
-}
   
 
 
