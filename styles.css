@@ -359,24 +359,24 @@ margin-top:-10px;
 
 /* Media query for screen adjustment */
 @media only screen and (min-width: 768px) {
-    .Ocontainer {
-        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
+    .Ocontainer, .main-container {
+        width: 50%; /* Take half of the screen width */
     }
 
-    .Ocontainer {
+    .main-container {
         margin: 0 auto; /* Center the main-container horizontally */
     }
 
-    .item3 {
-        margin-right: 10px; /* Adjust spacing between containers */
+    .item3, .item2 {
+        width: calc(25% - 10px); /* Take one-fourth of the screen width with margin adjustment */
     }
 
-    
-
     .item2 {
-        width: calc(50% - 10px); /* Adjust width to fit in the 50% space */
         margin-top: 10px; /* Adjust spacing between item3 and item2 */
+    }
 
+    .Ocontainer {
+        margin-left: 10px; /* Adjust spacing between Ocontainer and item2 */
     }
 }
 
