@@ -256,15 +256,17 @@ padding-top:15px;
 overflow: hidden;
 padding-bottom:15px;
 
-    
-
 
  }
     
        
 
        
-
+@media (min-width: 1024px) {
+    .item {
+        flex-basis: calc(50% - 30px); /* Adjust based on column count and gap */
+    }
+}
 
 
 
