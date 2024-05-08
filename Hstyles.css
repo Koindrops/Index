@@ -259,7 +259,7 @@ margin-left:25px;
     }
 
     .item {
-        width: calc(20% - 30px); /* 20% width for each item, considering 30px gap between items */
+        width: calc(50% - 30px); /* 20% width for each item, considering 30px gap between items */
     }
 }
 
