@@ -677,8 +677,16 @@ font-size:13px;
     margin-left: 15px;
     margin-right: 15px;
     font-size: 14px;
-    padding:20px;
+    
 }
+
+
+/* Padding for containers */
+.Ocontainer {
+    padding: 20px;
+}
+
+
 
 /* Styles for desktop screens */
 @media only screen and (min-width: 768px) {
