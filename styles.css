@@ -360,43 +360,26 @@ margin-top:-10px;
 
 /* Media query for screen adjustment */
 @media only screen and (min-width: 768px) {
-    .Ocontainer, .item2 {
+    .Ocontainer, .main-container {
         width: 50%; /* Take half of the screen width */
     }
 
-    .item3 {
-        width: calc(50% - 10px); /* Take half of the screen width with margin adjustment */
-        margin-right: 10px; /* Adjust spacing between item3 and Ocontainer */
+    .main-container {
+        margin: 0 auto; /* Center the main-container horizontally */
+    }
+
+    .item3, .item2 {
+        width: calc(25% - 10px); /* Take one-fourth of the screen width with margin adjustment */
     }
 
     .item2 {
         margin-top: 10px; /* Adjust spacing between item3 and item2 */
     }
 
-    .main-container {
-        width: 50%;
-        margin: 0 auto; /* Center the main-container horizontally */
-    }
-
-    /* Media query for larger screens */
-    @media only screen and (min-width: 1024px) {
-        .Ocontainer, .item2, .item3 {
-            width: 33.33%; /* Take one-third of the screen width */
-        }
-
-        .item2 {
-            margin-top: 0; /* Reset margin top */
-            margin-left: 0; /* Reset margin left */
-        }
-
-        .item3 {
-            margin-right: 10px; /* Adjust spacing between item3 and Ocontainer */
-        }
+    .Ocontainer {
+        margin-left: 10px; /* Adjust spacing between Ocontainer and item2 */
     }
 }
-
-
-
 
   
 
