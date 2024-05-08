@@ -350,14 +350,18 @@ margin-top:-10px;
 
 /* Media query for desktop screens */
 @media only screen and (min-width: 768px) {
-    .item2 {
+    .item2, .item3 {
         width: 50%;
-        margin-right: 10px; /* Adjust spacing between columns */
+    }
+
+    .item2 {
+        margin-left: 0;
+        margin-right: 20px;
     }
 
     .item3 {
-        width: 50%;
-        margin-left: 10px; /* Adjust spacing between columns */
+        margin-left: 20px;
+        margin-right: 0;
     }
 }
 
