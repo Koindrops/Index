@@ -321,44 +321,43 @@ margin-top:-10px;
 }
 
 
-/* Common styles for both .item2 and .item3 */
+/* Common styles for both containers */
 .item2, .item3 {
     display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: flex-start; /* Align items to the top */
-    align-items: stretch; /* Stretch items to fill the container's height */
-    max-width: 100%; /* Optionally, set a maximum width */
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    max-width: 100%;
     background-color: white;
     border-radius: 15px;
-    position: relative;
     margin-bottom: 30px;
-    padding-top: 15px;
     overflow: hidden;
 }
 
-/* Media query for larger screens targeting .item2 */
-@media screen and (min-width: 1024px) {
+/* Padding for containers */
+.item2 {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.item3 {
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+/* Media query for desktop screens */
+@media only screen and (min-width: 768px) {
     .item2 {
-        margin-left: 20px;
-        margin-right: 20px;
-        padding-bottom: 20px;
+        width: 50%;
+        margin-right: 10px; /* Adjust spacing between columns */
     }
-}
 
-/* Media query for larger screens targeting .item3 */
-@media screen and (min-width: 1024px) {
     .item3 {
-        margin-left: 15px;
-        margin-right: 15px;
-    }
-}
-
-/* Media query for smaller screens targeting both .item2 and .item3 */
-@media screen and (max-width: 767px) {
-    .item2, .item3 {
-        margin-left: 10px; /* Adjust margins for smaller screens */
-        margin-right: 10px;
-        padding-bottom: 10px; /* Adjust padding */
+        width: 50%;
+        margin-left: 10px; /* Adjust spacing between columns */
     }
 }
 
