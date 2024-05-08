@@ -235,33 +235,27 @@ margin-left:25px;
 
 
 
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-    justify-content: center;
-}
-
 .item {
     background-color: white;
-    max-width: 360px;
+    max-width:350px;
+    
     border-radius: 15px;
-    border: 1px solid grey;
+    border-color: grey;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 30px;
-    padding: 15px;
-    box-sizing: border-box;
-}
+    
+padding-top:15px;
+overflow: hidden;
+padding-bottom:15px;
 
-@media (min-width: 768px) {
-    .container {
-        justify-content: flex-start;
-    }
+    
 
-    .item {
-        width: calc(50% - 10px); /* 20% width for each item, considering 30px gap between items */
-    }
-}
+
+ }
+
 
 
 
