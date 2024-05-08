@@ -369,7 +369,7 @@ margin-top:-10px;
     }
 
     .item3, .item2 {
-        width: calc(25% - 10px); /* Take one-fourth of the screen width with margin adjustment */
+        width: calc(50% - 10px); /* Take one-fourth of the screen width with margin adjustment */
     }
 
     .item2 {
