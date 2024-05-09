@@ -236,7 +236,7 @@ margin-left:25px;
 .layout-container {
             display: flex;
             flex-wrap: wrap;
-            gap: 30px;
+            gap: 20px;
             justify-content: center;
         }
 
@@ -272,7 +272,8 @@ padding-bottom:15px;
             }
 
             .item {
-                margin-right: 20px;
+                margin-right: 10px;
+                margin-left:10px;
             }
 
             .item:nth-child(3n) {
