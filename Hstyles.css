@@ -245,7 +245,7 @@ margin-left:25px;
 
 .item {
     background-color: white;
-    max-width:350px;
+    max-width:300px;
     
     border-radius: 15px;
     border-color: grey;
@@ -264,6 +264,21 @@ padding-bottom:15px;
 
  }
 
+
+
+        @media (min-width: 1024px) {
+            .layout-container {
+                justify-content: flex-start;
+            }
+
+            .item {
+                margin-right: 20px;
+            }
+
+            .item:nth-child(3n) {
+                margin-right: 0;
+            }
+        }
 
 
 
