@@ -226,11 +226,19 @@ margin-top:50px;
 margin-left:25px;
 
 
-
-
-
 }
 
+
+
+
+
+
+.layout-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+        }
 
 
 
