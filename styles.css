@@ -398,21 +398,6 @@ margin-top:-10px;
 
 
 
-        @media (min-width: 1024px) {
-            .layout-container {
-                justify-content: flex-start;
-            }
-
-            .item {
-                margin-right: 30px;
-            }
-
-            .item:nth-child(3n) {
-                margin-right: 0;
-            }
-        }
-
-
 
 
 
