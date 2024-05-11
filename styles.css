@@ -1015,6 +1015,13 @@ margin: 0 auto;
 .hidden-text {
       display: none;
     }
+    
+    
+.clickable-link {
+            color:#089B26; /* Change color as needed */
+            
+            cursor: pointer; /* Optional: Show pointer cursor on hover */
+        }
 
 
 
