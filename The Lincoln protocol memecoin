@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>the Lincoln Protocol memecoin</title>
+
+<meta name="description" content="The Lincoln protocol memecoin is one of its kind memecoin that has a purpose of new exploration on ethereum Blockchain. let's check how to apply for the memecoin">
+    <meta name="keywords" content="koindrops, upcoming memecoin , latest memecoin , mebe memecoin, the Lincoln protocol, the Lincoln protocol memecoin">
+
+<meta property="og:type" content="website">
+    <meta property="og:url" content="https://koindrops.online/">
+    <meta property="og:site_name" content="koindrops">
+    <meta property="og:locale" content="en_US">
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+
+
+
+
+<link rel="stylesheet" href="styles.css">
+
+
+</head>
+<body>
+    
+    <div itemscope itemtype="http://schema.org/Event">
+    
+    
+
+<header class="header">
+    <div class="logo"><img src="Logo-k.WEBP" alt="Your Logo" width="45" height="45"></div><div class="menu-btn" onclick="toggleMenu()">☰</div>
+  <nav id="menu">
+        <ul class="menu-list">
+      <li><a href="index.html" title="koindrops"><img src="home.png" alt="About" width="24" height="24">Home</a></li>
+
+      <li><a href="about.html" title="koindrops-about"><img src="about.png" alt="About" width="24" height="24">About</a></li>
+
+      <li><a href="disclaimer.html" title="koindrops-disclaimer"><img src="disclaimer.png" alt="About" width="24" height="24">Disclaimer</a></li>
+      <li><a href="privacy-policy.html" title="koindrops-privacy policies"> <img src="privacy.png" alt="About" width="24" height="24">Privacy policy</a></li>
+    </ul>
+  </nav>
+    
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="Tcontainer">
+  <div class="toc-wrapper">
+    <div class="toc-text">Table of Contents</div>
+    <div class="toggle-btn"><span>+</span></div>
+  </div>
+  <div class="toc-slider">
+    <!-- Your table of contents content here -->
+    <ul>
+      <li><a href="#Overview" title="overview">Overview</a></li>
+      <li><a href="#Token Information" title="token information">Token Information</a></li>
+      <li><a href="#How to apply" title="how to apply">How to apply</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+<div class="mbutton-container">
+<a href="index.html" title="koindrops"><button class="aird-btn" style="margin-right:50px;">Previous</button></a><a href="index.html" title="koindrops"><button class="aird-btn">Next</button></a>
+</div>
+
+
+ 
+
+
+
+<div class="main-logo-container">
+<img src="lincoln.WEBP" alt="Solana Logo" width="200" height="200">
+</div>
+
+
+
+    <div class="image-text-container">
+        <img src="airdrop.WEBP" alt="Your Image" width="48" height="48">
+<div class=image-text>
+    
+   
+    
+    
+    
+<h1 itemprop="name"> the Lincoln protocol memecoin</h1>
+
+
+<h2 class="heading-2" itemprop="description">The Basic information about memecoin...</h2>
+
+</div>
+</div>
+
+
+
+<div class="item3">
+
+<div class="itemchild1">
+
+<img src="lincoln.WEBP" alt="Solana Logo" width="35" height="35"><span class="itemchild1-text">Lincoln memecoin</span>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="itemchild2">
+
+
+<div class="itemchild21">Token<strong>LINCOLN</strong>
+</div>
+
+
+
+
+<div class="itemchild22">Market 
+<strong>Uniswap v2</strong>
+
+
+
+</div>
+
+
+<div class="itemchild23">Status
+<strong><img src="fire.WEBP" alt="Image Description" height="25" width="25"></strong>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<div class="itemchild3">
+
+<span class="itemchild3-text">1.86 trillion Lincoln </span>
+
+</div>
+
+<div class="itemchild4">
+<a href="https://etherscan.io/token/0xe623c0adc14a13ebfa2b8e735122b48f1cd1be50" title="etherscan" class="solana-button">Ethereum <img src="ether.png" alt="ethereum Blockchain" width="14" height="14"></a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+ 
+
+
+
+<div id="Token Information">
+
+<h2 itemprop="description">Token Information</h2>
+
+<h3 class="heading-3" itemprop="description">The tokenomics you need...</h3>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+ <div class="item2"><strong>
+
+ <div class="itemchild">
+
+<div class="additional-child1">
+<span class="token-name">❉TokenName</span>          
+</div>
+
+<div class="additional-child2">
+Lincoln Protocol
+</div>
+
+
+</div><hr>
+
+
+
+ <div class="itemchild">
+
+<div class="additional-child1">
+© Symbol          
+</div>
+
+<div class="additional-child2">
+LINCOLN
+</div>
+
+
+</div><hr>
+
+
+
+
+ <div class="itemchild">
+
+<div class="additional-child1">
+⌘ Token address          
+</div>
+
+<div class="additional-child2">
+<span class="partial-copy-text">0xe623c0adc</span>
+        <span class="full-copy-text" style="display: none;">0xe623c0adc14a13ebfa2b8e735122b48f1cd1be50</span>
+        <button class="copy-btn" onclick="copyText()">Copy</button>
+</div>
+
+
+
+</div><hr>
+
+
+
+
+ <div class="itemchild">
+
+<div class="additional-child1">
+〄 Total Supply          
+</div>
+
+<div class="additional-child2">
+1.86 trillion
+</div>
+
+
+</div><hr>
+
+
+
+ <div class="itemchild">
+
+<div class="additional-child1">
+☵Exchange         
+</div>
+
+<div class="additional-child2">
+ Uniswap v2
+</div>
+
+
+</div><hr>
+
+
+
+
+
+
+
+</div></strong>
+
+
+
+
+
+
+<div class="itemchild4">
+<a href="https://www.lincolnprotocol.io/" title="lincoln protocol" class="solana-button2">Website </a><a href="https://t.me/lincolnprotocol" title="telegram" class="solana-button2">Telegram </a><a href="https://etherscan.io/token/0xe623c0adc14a13ebfa2b8e735122b48f1cd1be50" title="etherscan" class="solana-button2">Block explorer </a></div>
+
+
+
+
+
+
+<div id="Overview">
+
+<h2 style="margin-top:50px;" itemprop="description">Overview</h2>
+
+</div>
+
+
+
+
+
+
+
+<div class="Ocontainer" itemprop="description">
+
+
+<div class="Otext">
+
+<div class="Otextchild1">
+    <img src="overview.png" alt="Image Description" width="36" height="36"></div><div class="Otextchild2"><h3 itemprop="description">The Lincoln Protocol memecoin</h3></div>
+
+
+</div>
+
+
+
+
+<p class="para-1">In growing market of cryptocurrencies, The Lincoln Protocol memecoin will give the traders of crypto memecoins  a power to push their dreams of making money and purpose of exploring the <span class="clickable-link">Ethereum blockchain</span> to bring meaningful changes on the political sphere of memecoins.  the main motive of this memecoin and understand why it is getting  lot of  attention within the crypto community.
+
+</p>
+
+
+<p class="para-2"><span class="clickable-link">The Lincoln Protocol memecoin</span> operates on the Ethereum blockchain,  the larger Ethereum ecosystem known larger scale exploration and authentication speed. The Lincoln protocol memecoin also has facility of swapping  on     <a href="https://app.uniswap.org" class="clickable-link" title="uniswap v2 app">Uniswap v2</a>, Traders cac swap The Lincoln Protocol  memecoin with the trading pair <span class="clickable-link">LINCOLN/WETH.</span> It has  seamless liquidity and access for investors looking to join this transformational  memecoin projects.
+</p>
+
+
+<p class="para-3">With a total supply of <span class="clickable-link">1.86 trillion</span> Lincoln tokens, The Lincoln Protocol memecoin gives a commitment to long-term sustainability and utility within its ecosystem. The contract address <span class="clickable-link">“0xe623c0adc14a13eb
+fa2b8e735122b48f1cd1be5”</span> is the backbone of its tokenomics, giving it a secure and transparent transactions for its global user base.
+
+</p>
+
+<h3 itemprop="description">About Lincoln memecoin</h3>
+
+<p class="para-4">The memecoin, Lincoln Protocol is not  a digital crypto coin asset, but a powerful tool to give advance political empowerment. By the innovative approach of the team the coin has a great transparency and accountability, the Lincoln Protocol memecoin aims to reshape democratic processesas in the crypto memecoin markes around the world, to defeat electoral frauds. 
+</p>
+
+
+<p class="para-5">Check out the Lincoln Protocol website <a href="https://www.lincolnprotocol.io/" class="clickable-link" title="Lincoln protocol memecoin website">(lincolnprotocol.io)</a> to learn more about its roadmap, tokenomics, and community-driven initiatives.</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="How to apply">
+
+
+<h2 itemprop="description">How to apply for Airdrop</h2>
+
+
+</div>
+
+
+
+
+
+
+ <div class="main-container" itemprop="description">
+
+
+
+
+<div class="text">
+
+<div class="textchild1">
+    <img src="guide.png" alt="Image Description" width="36" height="36"></div><div class="textchild2"><h3 itemprop="description">Step by step guide..</h3></div>
+
+
+</div>
+
+
+
+
+ <div class="main-child-container">
+        <div class="step"> 1:</div>
+        <div class="instructions" itemprop="description">
+First you need to go on their website <a href="https://www.lincolnprotocol.io/" class="clickable-link" title=" Lincoln protocol memecoin">(lincolnprotocol.io)</a>  forr the general information about the Lincoln protocol memecoin and what is their main motive of launching this memecoin</div>
+    </div>
+
+    <div class="main-child-container">
+        <div class="step"> 2:</div>
+        <div class="instructions" itemprop="description">
+After knowing their general purpose full terms and conditions follow them on <span class="clickable-link">Twitter</span> and <a href="https://t.me/lincolnprotocol" title="telegram" class="clickable-link">Telegram </a>join discord server the Lincoln Protocol memecoin</div>
+    </div>
+
+
+    <div class="main-child-container">
+        <div class="step"> 3:</div>
+        <div class="instructions" itemprop="description">
+As per official website the Lincoln protocol memecoin launch 80% of stack in the uniswap v2 liquidity pool</div>
+    </div>
+
+
+
+        
+<div class="main-child-container">
+        <div class="step"> 4:</div>
+        <div class="instructions" itemprop="description">
+Go to <a href="https://app.uniswap.org" class="clickable-link" title="uniswap v2 app">Uniswap v2</a> app or website choose Ethereum Blockchain search for <span class="clickable-link">LINCOLN</span> and buy the Lincoln protocol memecoin on swapping with <span class="clickable-link">WETH</span> crypto currency </div>
+    </div>
+ 
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+</div>
+ 
+
+
+
+
+
+<!-- Location -->
+    <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+      <span class="hidden-text" itemprop="name">Online</span>
+    </div>
+    <!-- Start Date -->
+    <meta itemprop="startDate" content="2024-05-04T10:00:00-07:00" />
+    <meta itemprop="endDate" content="2024-05-04T18:00:00-07:00" />
+    <meta itemprop="eventAttendanceMode" content="https://schema.org/OnlineEventAttendanceMode" />
+    <meta itemprop="eventStatus" content="https://schema.org/EventScheduled" />
+  
+
+
+
+</div>
+
+
+
+
+
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h4>Koindrops</h4>
+                <p>koindrops platform is dedicated to providing it's user a flexible full stack information about latest crypto meme coins airdrops.</p>
+            </div>
+        </div>
+    </div>
+    
+<div class="newsletter">
+    <h4>Newsletter</h4>
+    <p>Subscribe to our newsletter for updates.</p>
+    <form id="newsletter-form" class="newsletter-form">
+        <input type="email" name="email" id="email" placeholder="Enter your email" required>
+        <button type="submit">Subscribe</button>
+    </form>
+</div>
+
+    
+     
+    
+
+
+    
+       
+    
+
+
+</footer>
+
+    <footer>
+        <p style="text-align:center;">&copy; 2024 Koindrops. All rights reserved.</p>
+    </footer>
+
+
+<script src="script.js"></script>
+
+
+
+
+
+<script>
+document.getElementById('newsletter-form').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the default form submission
+
+    // Get the email input value
+    const emailInput = document.getElementById('email');
+    const email = emailInput.value.trim(); // Trim any leading/trailing spaces
+
+    // Validate the email format using a regular expression
+    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    if (!emailRegex.test(email)) {
+        // Email format is incorrect, show an error message to the user
+        emailInput.setCustomValidity('Please enter a valid email address.');
+        emailInput.reportValidity(); // Show the error message to the user
+        return; // Exit the function, don't submit the form
+    }
+
+    // Prepare the data to send to SheetDB
+    const dataToSend = {
+        email: email
+        // Add other fields if needed
+    };
+
+    const sheetdbApiUrl = 'https://sheetdb.io/api/v1/qhzpuahn1u9wa'; // Your actual SheetDB API endpoint
+
+    // Make POST request to SheetDB API
+    fetch(sheetdbApiUrl, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(dataToSend),
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log('Data sent successfully:', data);
+        // Optionally, show a success message to the user
+        alert('Subscription successful!'); // Example of a success message
+    })
+    .catch(error => {
+        console.error('Error sending data:', error);
+        // Optionally, show an error message to the user
+        alert('Subscription failed. Please try again later.'); // Example of an error message
+    });
+});
+</script>
+
+
+</body>
+</html>
