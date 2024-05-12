@@ -66,6 +66,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
 </header>
 
+<div id="cookie-consent-banner" style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background-color: #f1f1f1; color: #333; padding: 10px; text-align: center; z-index: 1000;">
+    <p>This website uses cookies to ensure you get the best experience on our website.</p>
+    <button id="accept-cookies-btn" style="background-color: #4CAF50; color: white; padding: 8px 12px; border: none; cursor: pointer; margin: 5px; border-radius:15px;">Accept Cookies</button>
+</div>
+
 
 
 
@@ -368,7 +373,41 @@ document.getElementById('newsletter-form').addEventListener('submit', function(e
 
 
 
+<!-- Google Analytics Tracking Code -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D9SBCGSDBN"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    // Check if the user has previously accepted cookies
+    var hasAcceptedCookies = localStorage.getItem('cookie_consent');
+    if (hasAcceptedCookies) {
+        // If user has accepted cookies, set up Google Analytics tracking
+        gtag('config', 'G-D9SBCGSDBN');
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        var consentBanner = document.getElementById('cookie-consent-banner');
+        var acceptBtn = document.getElementById('accept-cookies-btn');
+        
+        acceptBtn.addEventListener('click', function() {
+            // Set Google Analytics cookies or trigger Google Analytics tags here
+            gtag('config', 'G-D9SBCGSDBN');
+
+            // Store consent in local storage
+            localStorage.setItem('cookie_consent', true);
+            
+            consentBanner.style.display = 'none'; // Hide the consent banner
+        });
+        
+        // Show the consent banner if user has not previously accepted cookies
+        if (!hasAcceptedCookies) {
+            consentBanner.style.display = 'block'; // Show the consent banner
+        }
+    });
+</script>
+<!-- End Google Analytics Tracking Code -->
 
 
 
