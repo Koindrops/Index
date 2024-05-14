@@ -930,6 +930,10 @@ hr {
         border-radius: 10px;
         box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         margin: 20px;
+         overflow-wrap: break-word; /* This ensures that long words break and do not overflow */
+        word-wrap: break-word;
+        hyphens: auto; /* Optional: Enable hyphenation */
+
          
     }
 
