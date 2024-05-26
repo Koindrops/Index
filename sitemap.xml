@@ -1,62 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
-<url>
-  <loc>https://koindrops.online/</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/about.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/disclaimer.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/privacy-policy.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/pomecoin%20memecoin.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/Barron%20son%20of%20trump%20memecoin.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/TKD%20tokuda%20memecoin.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/index-page.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/The%20Lincoln%20protocol%20memecoin.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://koindrops.online/index.html</loc>
-  <lastmod>2024-05-17T04:46:10+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+    <url>
+        <loc>https://koindrops.online</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/about.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/disclaimer.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/privacy-policy.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/pomecoin%20memecoin.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/Barron%20son%20of%20trump%20memecoin.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/TKD%20tokuda%20memecoin.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/index-page.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/The%20Lincoln%20protocol%20memecoin.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/index.html</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://koindrops.online/zeck%20murris</loc>
+        <lastmod>2024-05-26</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
