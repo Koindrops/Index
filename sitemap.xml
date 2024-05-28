@@ -4,68 +4,80 @@
 
   <url>
        <loc>https://koindrops.online/</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/about.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/disclaimer.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/privacy-policy.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/pomecoin%20memecoin.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/Barron%20son%20of%20trump%20memecoin.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/TKD%20tokuda%20memecoin.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/index-page.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/The%20Lincoln%20protocol%20memecoin.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://koindrops.online/index.html</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://koindrops.online/kermit/</loc>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9500</priority>
+  </url>
+  <url>
+       <loc>https://koindrops.online/zeck%20murris/</loc>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://koindrops.online/zeck%20murris/</loc>
-       <lastmod>2024-05-27T00:35:53+00:00</lastmod>
+       <lastmod>2024-05-28T03:39:27+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+       <priority>0.5120</priority>
   </url>
 </urlset>
