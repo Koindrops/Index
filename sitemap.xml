@@ -50,12 +50,7 @@
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
-  <url>
-       <loc>https://koindrops.online/index-page.html</loc>
-       <lastmod>2024-06-08T06:20:56+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
+  
   <url>
        <loc>https://koindrops.online/The%20Lincoln%20protocol%20memecoin.html</loc>
        <lastmod>2024-06-08T06:20:56+00:00</lastmod>
