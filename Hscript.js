@@ -33,13 +33,13 @@ document.addEventListener("DOMContentLoaded", function () {
         showMoreBtn.style.display = 'none'; // Hide "Show More" button after clicking
 
         const allItems = Array.from(container.querySelectorAll(".item"));
-        const numPages = Math.ceil(allItems.length / 10); // Calculate the number of pages
+        const numPages = Math.ceil(allItems.length / 12); // Calculate the number of pages
 
         let currentPage = 1; // Track current page
 
         function showItems(page) {
           allItems.forEach((item, index) => {
-            const isVisible = index >= (page - 1) * 10 && index < page * 10; // Determine if item should be visible on current page
+            const isVisible = index >= (page - 1) * 12 && index < page * 12; // Determine if item should be visible on current page
             item.style.display = isVisible ? 'block' : 'none';
           });
         }
