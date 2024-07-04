@@ -267,6 +267,8 @@ padding-bottom:15px;
 .item-ads {
     background-color: white;
     width:340px;
+    justify-content: center;  /* Horizontal center */
+            align-items: center;     /* Vertical center */
     
     border-radius: 15px;
     border-color: grey;
