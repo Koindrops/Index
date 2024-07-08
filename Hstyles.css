@@ -24,6 +24,15 @@
 
 
 
+/* Regular 400 */
+@font-face {
+  font-family: 'PermanentMarker';
+  font-style: normal;
+  font-weight: 400;
+  src: url('PermanentMarker-Regular.woff2') format('woff2');
+}
+
+
 
 
 
